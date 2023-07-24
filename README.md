@@ -1,5 +1,5 @@
 ## Hi there 👋 
-### Welcome to my Github page! I'm Roxi, nice to meet you.
+Welcome to my Github page! I'm Roxi, nice to meet you.
 <h3> 👩🏻‍💻 &nbsp;About me </h3>
  <ul> <p> &nbsp; Exploring new technologies and looking to collaborate and help with social projects as a Developer.</p></ul>
  <ul> <p> &nbsp; System engineer & Teacher.</p></ul>
