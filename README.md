@@ -1,15 +1,17 @@
 ## Hi there 👋 
 ### Welcome to my Github page! I'm Roxi, nice to meet you.
 <h3> 👩🏻‍💻 &nbsp;About me </h3>
-  <p>🤔 &nbsp; Exploring new technologies and looking to collaborate and help with social projects as a Developer.</p>
-  <p>🎓 &nbsp; System engineer & Teacher.</p>
-  <p>💼 &nbsp; Working as a teacher and moving to Tech Industry.</p>
-  <p>🌱 &nbsp; Learning more about Front-end, Back-end & UX/UI.</p>
+ <ul> <p> &nbsp; Exploring new technologies and looking to collaborate and help with social projects as a Developer.</p></ul>
+ <ul> <p> &nbsp; System engineer & Teacher.</p></ul>
+ <ul> <p> &nbsp; Working as a teacher and moving to Tech Industry.</p></ul>
+ <ul> <p> &nbsp; Learning more about Front-end, Back-end & UX/UI.</p></ul>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <a href="https://github.com/roxifochoag">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxifochoag&theme=buefy&layout=compact" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roxifochoag&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxifochoag&theme=gradient&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roxifochoag&show_icons=true&theme=gradient" />
+
+
 </a>
 <br/>
 
