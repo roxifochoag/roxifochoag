@@ -3,7 +3,7 @@ Welcome to my Github page! I'm Roxi, nice to meet you.
 <h3> 👩🏻‍💻 &nbsp;About me </h3>
  <ul> <p> &nbsp; Exploring new technologies and looking to collaborate and help with social projects as a Developer.</p></ul>
  <ul> <p> &nbsp; System engineer & Teacher.</p></ul>
- <ul> <p> &nbsp; From teacher to Tech Industry.</p></ul>
+ <ul> <p> &nbsp; From Teaching to Tech Industry.</p></ul>
  <ul> <p> &nbsp; Learning more about Front-end, Back-end & UX/UI.</p></ul>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
