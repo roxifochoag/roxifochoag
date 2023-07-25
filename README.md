@@ -26,10 +26,6 @@ Welcome to my Github page! I'm Roxi, nice to meet you.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code> 
 </p></p>
-<br/>
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/roxifochoag/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-roxifochoag-blue?style=flat-square&logo=linkedin"></a>
