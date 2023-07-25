@@ -8,8 +8,14 @@ Welcome to my Github page! I'm Roxi, nice to meet you.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <a href="https://github.com/roxifochoag">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxifochoag&theme=gradient&layout=compact" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roxifochoag&show_icons=true&theme=gradient" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=roxifochoag&hide_progress=true></a>
+
+<br />
+
+
+![Roxi Github Stats](https://github-readme-stats.vercel.app/api?username=roxifochoag&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<br />
 
 
 </a>
