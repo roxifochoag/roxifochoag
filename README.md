@@ -2,7 +2,10 @@
 Welcome to my Github page! I'm Roxi, nice to meet you.
 <h3> 👩🏻‍💻 &nbsp;About me </h3>
  <ul> <p> &nbsp; Exploring new technologies and looking to collaborate and help with projects focused on social impact as a Developer.</p></ul>
- <ul> <p> &nbsp; As a teacher, I firmly believe that education is the factor of change in society, likewise, as a Systems Engineer and Front-End Developer, a graduate from Laboratoria Bootcamp, I consider myself passionate about research into technological solutions that help society. Currently, I am exploring opportunities to put into practice the knowledge acquired in programming in solutions focused on social impact.</p></ul>
+ <ul> <p> &nbsp; As a teacher, I firmly believe that education is the factor of change in society.</p></ul> 
+ <ul> <p> &nbsp; As a Systems Engineer and Front-End Developer,I consider myself passionate about research into technological solutions</p></ul>
+ <ul> <p> &nbsp; that help society to move forward and solve nowadays problems.</p></ul>
+ <ul> <p> &nbsp; Currently, I am exploring opportunities to put into practice the knowledge acquired in programming in solutions focused on social impact</p></ul>
  <ul> <p> &nbsp; Learning more about Front-end, Back-end & UX/UI.</p></ul>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
