@@ -1,10 +1,8 @@
 ## 👋 Hello world! Welcome to my Github page!
 ### I'm Roxi, nice to meet you.
 
-
-
 <p align="center">
-  <img width="700" height="500" src="https://github.com/roxifochoag/roxifochoag/assets/46870050/be69ed23-b2bd-49cc-a2a7-fc651e595201/">
+  <img width="700" height="600" src="https://github.com/roxifochoag/roxifochoag/assets/46870050/c960a7d0-b140-47e8-b074-393b625d8d7e/">
 </p>
 
 
