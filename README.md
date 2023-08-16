@@ -9,8 +9,8 @@
 
 
 <h2> 👩🏻‍💻 &nbsp;About me </h2>
-<ul> <p> Exploring new technologies and looking to collaborate and help with projects focused on social impact as a Developer. As a teacher, I firmly believe that education is the key that will change the society and as a Systems Engineer and Front-End Developer. I consider myself passionate about research into technological solutions that help society to move forward and solve nowadays problems. Currently, I am exploring opportunities to put into practice the knowledge acquired in programming in solutions focused on social impact.</p></ul>
-<ul> <p> &nbsp;Learning more about Front-end, Back-end & UX/UI.</p></ul>
+<ul> <p> Exploring new technologies and looking to collaborate and help with projects focused on social impact as a Developer. As a teacher, I firmly believe that education is the key that will change society and as a Systems Engineer and Front-End Developer, I am passionate about research into technological solutions that help society to move forward and solve nowadays problems. Currently, I am exploring opportunities to put into practice the knowledge acquired in programming solutions focused on social impact.</p></ul>
+<ul> <p> &nbsp; I am so in love learning more about Front-end, Back-end & UX/UI, it is so delightful</p></ul>
 
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
