@@ -1,9 +1,10 @@
-## 👋 Welcome to my Github page! I'm Roxi, nice to meet you.
+## 👋 Hello world! Welcome to my Github page!
+### I'm Roxi, nice to meet you.
 
 
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/roxifochoag/roxifochoag/assets/46870050/be69ed23-b2bd-49cc-a2a7-fc651e595201/">
+  <img width="600" height="400" src="https://github.com/roxifochoag/roxifochoag/assets/46870050/be69ed23-b2bd-49cc-a2a7-fc651e595201/">
 </p>
 
 
