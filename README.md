@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img width="400" height="300" src="https://github.com/roxifochoag/roxifochoag/assets/46870050/0ff9c5c7-e6bf-42b9-9695-5cdd49000d8b/">
+  <img width="480" height="380" src="https://github.com/roxifochoag/roxifochoag/assets/46870050/0ff9c5c7-e6bf-42b9-9695-5cdd49000d8b/">
 </p>
 
 
