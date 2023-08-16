@@ -9,11 +9,11 @@
 
 
 <h2> 👩🏻‍💻 &nbsp;About me </h2>
- <ul> <p> &nbsp; Exploring new technologies and looking to collaborate and help with projects focused on social impact as a Developer.</p></ul>
- <ul> <p> &nbsp; As a teacher, I firmly believe that education is the factor of change in society and as a Systems Engineer and Front-End Developer</p></ul> 
- <ul> <p> &nbsp; I consider myself passionate about research into technological solutions that help society to move forward and solve nowadays problems.</p></ul>
- <ul> <p> &nbsp; Currently, I am exploring opportunities to put into practice the knowledge acquired in programming in solutions focused on social impact</p></ul>
- <ul> <p> &nbsp; Learning more about Front-end, Back-end & UX/UI.</p></ul>
+<ul> <p> &nbsp; Exploring new technologies and looking to collaborate and help with projects focused on social impact as a Developer. As a teacher, I firmly believe that education</p></ul>
+<ul> <p> &nbsp; is the key of change in society and as a Systems Engineer and Front-End Developer.I consider myself passionate about research into technological solutions that help society to </p></ul> 
+<ul> <p> &nbsp; move forward and solve nowadays problems. Currently, I am exploring opportunities to put into practice the knowledge acquired in programming in solutions focused on social   </p></ul>
+<ul> <p> &nbsp; impact.Learning more about Front-end, Back-end & UX/UI.</p></ul>
+
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <a href="https://github.com/roxifochoag">
