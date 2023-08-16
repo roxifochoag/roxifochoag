@@ -1,16 +1,11 @@
 ## 👋 Hello world! Welcome to my Github page!
 ### I'm Roxi, nice to meet you.
-
-
-<p align="center">
-  <img width="480" height="380" src="https://github.com/roxifochoag/roxifochoag/assets/46870050/0ff9c5c7-e6bf-42b9-9695-5cdd49000d8b/">
-</p>
-
-
 <h2> 👩🏻‍💻 &nbsp;About me </h2>
 <ul> <p>Exploring new technologies and looking to collaborate and help with projects focused on social impact as a Developer. As a teacher, I firmly believe that education is the key that will change society and as a Systems Engineer and Front-End Developer, I am passionate about research into technological solutions that help society to move forward and solve nowadays problems. Currently, I am exploring opportunities to put into practice the knowledge acquired in programming solutions focused on social impact.</p></ul>
 <ul> <p>I am so in love learning more about Front-end, Back-end & UX/UI, it is so delightful</p></ul>
-
+<p align="center">
+  <img width="400" height="300" src="https://github.com/roxifochoag/roxifochoag/assets/46870050/0ff9c5c7-e6bf-42b9-9695-5cdd49000d8b/">
+</p>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <a href="https://github.com/roxifochoag">
