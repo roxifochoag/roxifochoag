@@ -1,5 +1,4 @@
-## 👋 Hello world! Welcome to my Github page!
-### I'm Roxi, nice to meet you.
+## 👋 Hello world! Welcome to my Github page! I'm Roxi, nice to meet you.
 <h2> 👩🏻‍💻 &nbsp;About me </h2>
 <ul> <p>Exploring new technologies and looking to collaborate and help with projects focused on social impact as a Developer. As a teacher, I firmly believe that education is the key that will change society and as a Systems Engineer and Front-End Developer, I am passionate about research into technological solutions that help society to move forward and solve nowadays problems. Currently, I am exploring opportunities to put into practice the knowledge acquired in programming solutions focused on social impact.</p></ul>
 <p align="center">
