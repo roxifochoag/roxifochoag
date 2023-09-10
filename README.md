@@ -15,7 +15,7 @@
 <h2>
 </h2>
 <h2> 👩🏻‍💻 &nbsp;About me </h2>
-<ul> <p>Exploring new technologies and looking to collaborate and help with projects focused on social impact as a Developer. As a teacher, I firmly believe that education is the key that will change society and as a Systems Engineer and Front-End Developer, I am passionate about research into technological solutions that help society to move forward and solve nowadays problems. Currently, I am exploring opportunities to put into practice the knowledge acquired in programming solutions focused on social impact.</p></ul>
+<ul> <p>Exploring new technologies and seeking to collaborate on projects that focus on creating a positive social impact as a Developer. As an educator, I firmly believe that education is the key to driving societal change. As a Systems Engineer and Front-End Developer, I am passionate about researching technological solutions that can propel society forward and address contemporary challenges. Currently, I am actively pursuing opportunities to apply the knowledge I have gained in programming solutions that prioritize social impact.</p></ul>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <a href="https://github.com/roxifochoag">
