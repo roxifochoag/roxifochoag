@@ -1,10 +1,16 @@
-<h2>
-<p align="center">
-👋 Hello world! Welcome to my Github page! I'm Roxi, nice to meet you.🙏
-</p>
+<h1>
+ <p align="center">
+    ⭐
+  ************* ⭐ Hello World⭐*************
+ ⭐</p>
+ </p>
+</h2>
+ </p>
 </h2>
 <h3 align="center">
-  <img width="400" height="300" src="https://github.com/roxifochoag/roxifochoag/assets/46870050/0ff9c5c7-e6bf-42b9-9695-5cdd49000d8b/">
+
+<img height="50%" src="https://github.com/roxifochoag/roxifochoag/assets/46870050/e67e3bb1-87b6-4f32-ac11-e45c793cca6f">
+
 </h3>
 <h2>
 </h2>
