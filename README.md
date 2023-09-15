@@ -9,7 +9,7 @@
 </h2>
 <h3 align="center">
 
-<img height="50%" src="https://github.com/roxifochoag/roxifochoag/assets/46870050/08423e8c-3b9e-4b34-8990-2ca0d4e99b41">
+<img width="50%" src="https://github.com/roxifochoag/roxifochoag/assets/46870050/08423e8c-3b9e-4b34-8990-2ca0d4e99b41">
 
 </h3>
 <h2>
