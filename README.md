@@ -1,8 +1,7 @@
 <h1>
  <p align="center">
-    ⭐
-  ************* ⭐ Hello World⭐*************
- ⭐</p>
+  <img src="https://github.com/roxifochoag/roxifochoag/assets/46870050/f31249dd-fd51-48f7-bc6f-338d23e13f50">
+</p>
  </p>
 </h2>
  </p>
