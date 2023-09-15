@@ -1,25 +1,16 @@
 <h1>
  <p align="center">
   <img src="https://github.com/roxifochoag/roxifochoag/assets/46870050/f31249dd-fd51-48f7-bc6f-338d23e13f50">
+  <h2 align="center"> ˗ˏˋ☕ˎˊ˗ 🖥️ Welcome to my Github! I am Roxi, so nice to meet you  🖥️˗ˏˋ☕ˎˊ˗ </h2>
 </p>
- </p>
-</h2>
- </p>
-</h2>
-<h3 align="center">
-
-<img width="50%" src="https://github.com/roxifochoag/roxifochoag/assets/46870050/08423e8c-3b9e-4b34-8990-2ca0d4e99b41">
-
-</h3>
-<h2>
-</h2>
+</h1>
 <h2> 👩🏻‍💻 &nbsp;About me </h2>
-<ul> <p>Exploring new technologies and seeking to collaborate on projects that focus on creating a positive social impact as a Developer. As an educator, I firmly believe that education is the key to driving societal change. As a Systems Engineer and Front-End Developer, I am passionate about researching technological solutions that can propel society forward and address contemporary challenges. Currently, I am actively pursuing opportunities to apply the knowledge I have gained in programming solutions that prioritize social impact.</p></ul>
+<ul> <p>Exploring new technologies and seeking to collaborate on projects that focus on creating a positive social impact as a Developer. As a Systems Engineer and Front-End Developer, I am passionate about researching technological solutions that can propel society forward and address contemporary challenges. Currently, I am actively pursuing opportunities to apply the knowledge I have gained in programming solutions that prioritize social impact.</p></ul>
+ <p align="center"><img align="center" width="30%" src="https://github.com/roxifochoag/roxifochoag/assets/46870050/08423e8c-3b9e-4b34-8990-2ca0d4e99b41"> </p>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <a href="https://github.com/roxifochoag">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=roxifochoag&hide_progress=true></a>
-
 <br />
 <p align="center">
  <p align="center">
